@@ -2,3 +2,4 @@ I am a fix file
 
 Added another bug fix 
 3rd bug fix
+4th bug fix
